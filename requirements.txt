@@ -1,0 +1,7 @@
+google-play-scraper>=1.0.0
+pandas>=1.5
+python-dateutil
+tqdm
+sqlalchemy
+psycopg2-binary
+python-dotenv
